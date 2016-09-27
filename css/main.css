@@ -22,10 +22,16 @@ body {
 }
 
 .img-flex {
-  display: block;
+  display: inline-block;
   width: 100%;
 }
 
 .grid {
   display: inline-block;
+}
+
+.grid {
+  float: left;
+  margin: 0;
+  padding: 0;
 }
